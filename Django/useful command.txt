@@ -1,0 +1,5 @@
+python manage.py makemigrations----for cheking any changes in db
+python manage.py migrate--for make table of user and password
+python manage.py createsuperuser--for creating a user as admin
+
+

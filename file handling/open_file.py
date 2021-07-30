@@ -1,0 +1,7 @@
+f=open("vk.txt",'r')
+data=f.read()
+print(data)
+print(type(data))
+# data=f.readline()
+# print(data)
+# f.close()
